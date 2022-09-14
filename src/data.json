@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Thor: Love and Thunder",
+    "cast": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Christian Bale",
+      "Tessa Thompson"
+    ],
+    "genre": "Action/Adventure",
+    "rating": "PG-13",
+    "releaseDate": "2022-07-08T18:25:43.511Z",
+    "synopsis": "Thor embarks on a journey unlike anything he's ever faced -- a quest for inner peace. However, his retirement gets interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods. To combat the threat, Thor enlists the help of King Valkyrie, Korg and ex-girlfriend Jane Foster, who -- to his surprise -- inexplicably wields his magical hammer. Together, they set out on a harrowing cosmic adventure to uncover the mystery of the God Butcher's vengeance."
+  },
+  {
+    "id": 2,
+    "name": "Moonfall",
+    "cast": ["Halle Berry", "Patrick Wilson", "John Bradley"],
+    "genre": "Sci-Fi",
+    "rating": "PG-13",
+    "releaseDate": "2022-02-03T18:25:43.511Z",
+    "synopsis": "The world stands on the brink of annihilation when a mysterious force knocks the moon from its orbit and sends it hurtling toward a collision course with Earth. With only weeks before impact, NASA executive Jocinda \"Jo\" Fowler teams up with a man from her past and a conspiracy theorist for an impossible mission into space to save humanity."
+  },
+  {
+    "id": 3,
+    "name": "Top Gun: Maverick",
+    "cast": ["Tom Cruise", "Jennifer Connelly", "Miles Teller"],
+    "genre": "Action/Adventure",
+    "rating": "PG-13",
+    "releaseDate": "2022-05-27T18:25:43.511Z",
+    "synopsis": "After more than 30 years of service as one of the Navy's top aviators, Pete \"Maverick\" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it."
+  },
+  {
+    "id": 4,
+    "name": "Spiderhead",
+    "cast": ["Chris Hemsworth", "Miles Teller", "Jurnee Smollett"],
+    "genre": "Crime/Drame",
+    "rating": "R",
+    "releaseDate": "2022-06-11T18:25:43.511Z",
+    "synopsis": "Two inmates form a connection while grappling with their pasts in a state-of-the-art penitentiary run by a brilliant visionary who experiments on his subjects with mind-altering drugs."
+  },
+  {
+    "id": 5,
+    "name": "Day Shift",
+    "cast": ["Jamie Foxx", "Dave France", "Natasha Liu Bordizzo", "Snoop Dogg"],
+    "genre": "Comedy/Fantasy",
+    "rating": "R",
+    "releaseDate": "2022-08-12T18:25:43.511Z",
+    "synopsis": "A hardworking dad out to provide for his daughter uses a boring pool-cleaning job as a front for his real gig: hunting and killing vampires."
+  }
+]
