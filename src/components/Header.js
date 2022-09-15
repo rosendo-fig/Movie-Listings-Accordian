@@ -32,6 +32,8 @@ const Header = () => {
                   Separated link
                 </NavDropdown.Item>
               </NavDropdown>
+              <Nav.Link href="#services">Services</Nav.Link>
+              <Nav.Link href="#contact">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </div>

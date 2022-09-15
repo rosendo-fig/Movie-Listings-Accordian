@@ -5,3 +5,17 @@ nav {
 .nav-link {
   color: #fff;
 }
+
+.nav-link:hover {
+  color: #bba454;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  color: #bba454;
+}
+
+.dropdown-item:hover {
+  background-color: #bba454;
+  color: #fff;
+}
